@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Manases Huaman</h1>
-<h3 align="center">Student at MITS, Gwalior🌟.</h3>
+<h3 align="center">Systems Engineering student at Universidad Privada del Norte (UPN), currently in the 7th semester. Interested in programming, web development, databases, and emerging technologies such as IoT and machine learning. Motivated to contribute to innovative tech projects and continue learning in the field.🌟.</h3>
 
 <br>
 
@@ -14,9 +14,7 @@
 
 - 🌱 I’m currently learning Web Development and other programming languages
 
-- 📫 How to reach me **adampithewan@gmail.com**
-
-- ⚡ Fun fact :- Food and Music🎵 are the reasons to live.
+- 📫 How to reach me **manahuaman1504@gmail.com**
 
 <br>
 
