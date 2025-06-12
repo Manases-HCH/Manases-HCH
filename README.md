@@ -50,3 +50,10 @@
     </td>
   </tr>
 </table>
+
+## 🎮 Bonus: Mario Bros Vibes
+
+![Mario](https://media.giphy.com/media/l0MYEqEzwMWFCg8rm/giphy.gif)
+
+> _Keep coding like you're running through level 1-1!_
+
