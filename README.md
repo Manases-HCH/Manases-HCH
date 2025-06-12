@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Manases Huaman</h1>
 <h3 align="center">Systems Engineering student at Universidad Privada del Norte (UPN), currently in the 7th semester. Motivated to contribute to innovative tech projects and continue learning in the field. 🌟</h3>
 
-<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="coding animation" width="600"/></p>
+<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="coding animation" width="450"/></p>
 
 - 🌱 I’m currently learning **Web Development** and exploring new programming languages.  
 - 💻 I enjoy building projects that solve real-world problems using **IoT, ML, and software development**.  
