@@ -50,10 +50,3 @@
     </td>
   </tr>
 </table>
-
-## 🎮 Bonus: Mario Bros Simulation
-
-[![Watch the Mario Level](https://img.youtube.com/vi/9aHQnDTd1y4/0.jpg)](https://www.youtube.com/watch?v=9aHQnDTd1y4)
-
-> _Click to watch a full ASCII simulation of Mario Bros level 1-1!_
-
