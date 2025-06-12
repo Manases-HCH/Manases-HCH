@@ -36,14 +36,14 @@
 
 ---
 
-<h3 align="left">📊 GitHub Stats:</h3>
+## 📊 GitHub Stats
 
-<p align="center">
-  <img width="600" src="https://github-readme-stats.vercel.app/api?username=Manases-HCH&show_icons=true&theme=dark&locale=en" alt="GitHub Stats" />
-</p>
-<p align="center">
-  <img width="600" src="https://github-readme-streak-stats.herokuapp.com/?user=Manases-HCH&theme=dark" alt="GitHub Streak" />
-</p>
-<p align="center">
-  <img width="600" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manases-HCH&layout=compact&theme=dark" alt="Top Languages" />
-</p>
+### 🔹 Overall Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Manases-HCH&show_icons=true&theme=dark&locale=en)
+
+### 🔹 Current Streak
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Manases-HCH&theme=dark)
+
+### 🔹 Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Manases-HCH&layout=compact&theme=dark)
+
