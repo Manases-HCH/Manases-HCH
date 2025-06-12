@@ -50,4 +50,3 @@
     </td>
   </tr>
 </table>
-## 🎮 Super Mario Mode
