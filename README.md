@@ -38,12 +38,15 @@
 
 ## 📊 GitHub Stats
 
-### 🔹 Overall Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Manases-HCH&show_icons=true&theme=dark&locale=en)
-
-### 🔹 Current Streak
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Manases-HCH&theme=dark)
-
-### 🔹 Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Manases-HCH&layout=compact&theme=dark)
-
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=Manases-HCH&show_icons=true&theme=dark&locale=en" width="400" />
+      <br/>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Manases-HCH&theme=dark" width="400" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manases-HCH&layout=compact&theme=dark" width="300" />
+    </td>
+  </tr>
+</table>
