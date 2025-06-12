@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Manases Huaman</h1>
-<h3 align="center">Systems Engineering student at Universidad Privada del Norte (UPN), currently in the 7th semester. Interested in programming, web development, databases, and emerging technologies such as IoT and machine learning. Motivated to contribute to innovative tech projects and continue learning in the field.🌟.</h3>
+<h3 align="center">Systems Engineering student at Universidad Privada del Norte (UPN), currently in the 7th semester. Motivated to contribute to innovative tech projects and continue learning in the field.🌟.</h3>
 
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
@@ -18,13 +18,10 @@
   <a href="https://www.facebook.com/manases.huaman.2025" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
       alt="adam pithen wala" height="30" width="40" /></a>
-  <a href="https://instagram.com/_._.adam._" target="blank"><img align="center"
+  <a href="" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
       alt="_._.adam._" height="30" width="40" /></a>
-  <a href="https://www.hackerrank.com/adampithewan" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"
-      alt="adampithewan" height="30" width="40" /></a>
- <a href="https://twitter.com/adam_pithenwala" target="blank"><img align="center"
+ <a href="" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
       alt="adampithewan" height="30" width="40" /></a>
 </p>
